@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)]
+![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 <h1 align="center">Hi 👋, I'm Jason M Kahraman</h1>
 <h3 align="center">A passionate Cloud and DevOps Engineer</h3>
 <image align="right" alt="coding" width="350" src="https://lh3.googleusercontent.com/P2m66DTzroseb86BJv1gGPU22Lhd3KgKoRCdW6_eqLD3FNsHBnhTs0lcHzP2D-7RFW0AzjcDZjkc0V2Cu6mhGTSYr18oDcxZnED6=w701">
