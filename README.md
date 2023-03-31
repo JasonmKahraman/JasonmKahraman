@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasonmkahraman&label=Profile%20views&color=0e75b6&style=flat" alt="jasonmkahraman" /> </p>
 
-- 🔭 I’m currently working on **Microservice projects in Java**
+- 🔭 I’m currently working on **Microservice projects, Developing a software application using the microservices architecture**
 
 - 🌱 I’m currently learning **Frameworks, Advance Kubernetes and Ansible**
 
