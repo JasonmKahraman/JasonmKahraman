@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasonmkahraman&label=Profile%20views&color=0e75b6&style=flat" alt="jasonmkahraman" /> </p>
 
-- 🔭 I’m currently working on ** I am working mainly on a microservice-based application fully automated and that was written in Java**
+- 🔭 I’m currently working on ** I am currently working on a microservice-based application fully automated and that was written in Java**
 
 - 🌱 I’m currently learning **Frameworks, Advance Kubernetes and Ansible**
 
-- 💬 Ask me about **CI/CD pipelines, Automation, Terraform, Kubernetes, microsevices Network and Security**
+- 💬 Ask me about **CI/CD pipelines, Automation, Terraform, Kubernetes, microservices Networks, and Security**
 
 - 📫 How to reach me **jasonmkahraman@gmail.com**
 
